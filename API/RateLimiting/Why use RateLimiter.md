@@ -20,3 +20,6 @@ https://www.linkedin.com/posts/romain-od_rate-liminting-sliding-window-by-rom-ac
 
 Token Bucket
 https://www.linkedin.com/posts/romain-od_token-bucket-limiter-by-rom-od-activity-7178420444289478656-1GkJ?utm_source=share&utm_medium=member_desktop
+
+Concurrency Limiter
+https://www.linkedin.com/posts/romain-od_concurrency-limiter-by-rom-od-ugcPost-7178404919366815745-oa71?utm_source=share&utm_medium=member_desktop
